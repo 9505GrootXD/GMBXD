@@ -276,7 +276,7 @@ async def welcome(client, message: Message):
             return
 
 
-@app.on_message(commandpro(["/alive", "groot"]) & ~filters.edited)
+@app.on_message(commandpro(["/alive", "groot", "/groot", "/help"]) & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/43eb81b7a99092f9a3197.jpg",
