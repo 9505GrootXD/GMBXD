@@ -30,16 +30,6 @@ def lanuages_keyboard(_):
         ),
     )
     keyboard.row(
-        InlineKeyboardButton( 
-            text="🇮🇳 తెలుగు 🇮🇳", 
-            callback_data=f"languages:te", 
-        ),
-        InlineKeyboardButton( 
-            text="🇮🇳 தமிழ் 🇮🇳", 
-            callback_data=f"languages:ta", 
-        ),
-    )
-    keyboard.row(
         InlineKeyboardButton(
             text=_["BACK_BUTTON"],
             callback_data=f"settingsback_helper",
