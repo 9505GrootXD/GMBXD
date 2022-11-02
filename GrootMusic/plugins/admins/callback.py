@@ -19,7 +19,7 @@ from config import (
     adminlist,
 )
 from GrootMusic import YouTube, app
-from GrootMusic.core.call import Alexa
+from GrootMusic.core.call import Groot
 from GrootMusic.misc import SUDOERS, db
 from GrootMusic.utils.database import (
     is_active_chat,
