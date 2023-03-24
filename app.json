@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/zaherkhanbhai/alexaa2.0editmyver",
+        "value": "https://github.com/RobinMusiczz/Go2vm",
         "required": true
       },
       "UPSTREAM_BRANCH": {
