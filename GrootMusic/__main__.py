@@ -44,7 +44,7 @@ async def init():
     await app.start()
     for all_module in ALL_MODULES:
         importlib.import_module("GrootMusic.plugins" + all_module)
-    LOGGER("GrootMusic.plugins").info("Necessary Modules Imported Successfully.")
+    LOGGER("GrootMusic.plugins").info("ɴᴇᴄᴇssᴀʀʏ ᴍᴏᴅᴜʟᴇs ɪᴍᴘᴏʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ. 😌")
     await userbot.start()
     await Groot.start()
     try:
@@ -57,10 +57,10 @@ async def init():
     except:
         pass
     await Groot.decorators()
-    LOGGER("GrootMusic").info("Music Bot Started Successfully ❣️")
+    LOGGER("GrootMusic").info("🌱 ɢʀᴏᴏᴛ ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 🤨")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("GrootMusic").info("Stopping Music Bot, Bhakk Bhosdike (Gaand Maraa Tu)")
+    LOGGER("GrootMusic").info("😏 sᴛᴏᴘᴘɪɴɢ ɢʀᴏᴏᴛ ᴍᴜsɪᴄ ʙᴏᴛ 😒")
