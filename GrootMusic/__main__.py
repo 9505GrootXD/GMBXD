@@ -51,7 +51,7 @@ async def init():
         await Groot.stream_call("https://te.legra.ph/file/07c786fb2835ab46e0439.jpg")
     except NoActiveGroupCall:
         LOGGER("GrootMusic").error(
-            "[ERROR] - \n\nHey Baby, firstly open telegram and turn on voice chat in Logger Group else fu*k off. If you ever ended voice chat in log group i will stop working and users will fu*k you up."
+            "[ERROR] - \n\n😎 ʜᴇʏ ᴍᴏᴏᴅᴇʟ, ғɪʀsᴛʟʏ ᴏᴘᴇɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀɴᴅ ᴛᴜʀɴ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ,ɪғ ʏᴏᴜ ᴇᴠᴇʀ ᴇɴᴅᴇᴅ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ sᴛᴏᴘ ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ᴍᴇᴍʙᴇʀs ᴡɪʟʟ ᴘᴜᴍᴋ ʏᴏᴜ ᴜᴘ.😂"
         )
         sys.exit()
     except:
