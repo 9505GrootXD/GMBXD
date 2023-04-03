@@ -30,11 +30,11 @@ HELP_1 = """**<u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</u>**
 
 HELP_2 = """<u>**ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs = play , vplay , cplay , cvplay
+**ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs** = play , vplay , cplay , cvplay
 
-ғᴏʀᴄᴇᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs = playforce , vplayforce , cplayforce , cvplayforce
+**ғᴏʀᴄᴇᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs** = playforce , vplayforce , cplayforce , cvplayforce
 
-ɢʀᴏᴏᴛᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs = groot , vgroot , cgroot , cvgroot
+**ɢʀᴏᴏᴛᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs** = groot , vgroot , cgroot , cvgroot
 
 **c** sᴛᴀɴᴅs ғᴏʀ ᴄʜᴀɴɴᴇʟ ᴩʟᴀʏ.
 **v** sᴛᴀɴᴅs ғᴏʀ ᴠɪᴅᴇᴏ ᴩʟᴀʏ.
