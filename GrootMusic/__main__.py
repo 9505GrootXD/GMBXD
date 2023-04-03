@@ -30,7 +30,7 @@ async def init():
         and not config.STRING5
     ):
         LOGGER("GrootMusic").error(
-            "WTF Baby ! Atleast add a pyrogram string, How Cheap..."
+            "ᴡʜᴀᴛ ᴘɪʀᴏ.! ᴀᴛʟᴇᴀsᴛ ᴀᴅᴅ ᴀ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ, ʜᴏᴡ ᴄʜᴇᴀᴘ.. 😒"
         )
     try:
         users = await get_gbanned()
