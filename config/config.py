@@ -11,8 +11,7 @@ from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
 
-if os.path.exists("Internal"):
-    load_dotenv("Internal")
+load_dotenv("Internal")
 
 load_dotenv()
 
