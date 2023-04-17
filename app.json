@@ -73,6 +73,11 @@
         "value": "",
         "required": false
       },
+      "GITHUB_REPO": {
+        "description": "Don't Change,If you change it, will get an error",
+        "value": "https://github.com/LeeyooMuzicBot/PriyaMusic",
+        "required": true
+      },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
         "value": "",
