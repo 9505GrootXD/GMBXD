@@ -74,7 +74,7 @@
         "required": false
       },
       "GITHUB_REPO": {
-        "description": "Don't Change,If you change it, will get an error",
+        "description": "Dont Change,If you change it, will get an error",
         "value": "https://github.com/LeeyooMuzicBot/PriyaMusic",
         "required": true
       },
