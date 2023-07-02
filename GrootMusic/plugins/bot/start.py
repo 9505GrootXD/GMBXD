@@ -280,7 +280,7 @@ async def welcome(client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/43eb81b7a99092f9a3197.jpg",
-        caption=f""" ❥❥━─────────➸➽\n\n🥀🖤 ʸᵒᵘʳ𝐇𝐄𝐀𝐑𝐓🌙 ⁱˢ 𝐌𝐘 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐈𝐁𝐈𝐋𝐈𝐓𝐘 🖤🥀\n\n🌱 [𝐈𝗔𝗠 𝐆𝐑𝗢𝗢𝗧](https://t.me/mynameisgroot) 🌱\n\n❥❥━─────────➸➽ """,
+        caption=f""" ❥❥━─────────➸➽\n\n🥀🖤 ʸᵒᵘʳ𝐇𝐄𝐀𝐑𝐓🌙 ⁱˢ 𝐌𝐘 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐈𝐁𝐈𝐋𝐈𝐓𝐘 🖤🥀\n\n🌱 [𝐈𝗔𝗠 𝐆𝐑𝗢𝗢𝗧](https://t.me/aboutgroot) 🌱\n\n❥❥━─────────➸➽ """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("💠 ɢʀᴏᴏᴛ ɴᴇᴛᴡᴏʀᴋ 💠", url=f"https://t.me/RJbr0")]]
         ),
